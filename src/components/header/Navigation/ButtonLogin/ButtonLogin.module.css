@@ -1,0 +1,15 @@
+.ButtonLogin{
+    
+    font-size:20px;
+    padding-top:10px;
+    margin-top: 20px;
+    font-weight: bold;
+    opacity: 1;
+    color:black;
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0em;
+    border : none;
+    background-color: #ffffffff;
+    
+}
